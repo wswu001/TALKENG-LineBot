@@ -23,7 +23,7 @@ This project is a LINE bot application built using Flask, LINE Messaging API, an
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repository/line-bot-nlp.git
+git clone https://github.com/wswu001/TALKENG-LineBot.git
 cd line-bot-nlp
 ```
 
