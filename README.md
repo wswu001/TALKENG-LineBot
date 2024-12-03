@@ -6,21 +6,18 @@ This project is a LINE bot application built using Flask, LINE Messaging API, an
 - Translating Chinese text to English.
 - Transcribing audio messages.
 
----
 
 ## Features
 
 - **Text Translation**: Users can translate Chinese text to English using the prefix `\en`.
 - **Audio Transcription**: The bot transcribes audio messages into text using pre-trained models.
 
----
 
 ## Requirements
 
 - Python 3.8 or later
 - LINE Developer Account (to get your `access_token` and `channel_secret`)
 
----
 
 ## Setup Instructions
 
@@ -56,7 +53,6 @@ ngrok http 4000
 ```
 Copy the generated public URL and add it as your webhook URL in the LINE Developer Console.
 
----
 
 ## Usage
 
