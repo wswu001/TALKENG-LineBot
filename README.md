@@ -1,7 +1,5 @@
 # TALKENG-LineBot
 
-Here’s a basic `README.md` file for your project based on the code you provided. This file explains the purpose of the project, setup instructions, and usage.
-
 This project is a LINE bot application built using Flask, LINE Messaging API, and NLP models for language translation and audio transcription. It supports:
 - Translating Chinese text to English.
 - Transcribing audio messages.
